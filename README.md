@@ -1,2 +1,0 @@
-# Kandziuba
-Homeworks and Project
