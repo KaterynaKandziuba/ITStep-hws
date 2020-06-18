@@ -1,2 +1,2 @@
-# It_Step
+# Kandziuba
 Homeworks and Project
